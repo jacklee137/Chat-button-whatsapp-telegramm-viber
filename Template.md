@@ -6,7 +6,7 @@
         /></div>
     <div id="messenger-links" class="messenger-links">
         <a title="phone" href="tel:+79093802519" target="_blank"><img
-                src="/files/2/icons8-phone.svg"
+                src="/files/2/phone.svg"
                 alt="phone"
             /></a>
         <a title="Whatsapp" href="https://wa.me/+79093802519" target="_blank"><img
@@ -14,7 +14,7 @@
                 alt="Whatsapp"
             /></a>
         <a title="Viber" href="viber://chat?number=%2B+79093802519" target="_blank"><img
-                src="/files/2/icons8-viber.svg"
+                src="/files/2/viber.svg"
                 alt="Viber"
             /></a>
         <a title="Telegramm" href="https://t.me/kopiprint34" target="_blank"><img
